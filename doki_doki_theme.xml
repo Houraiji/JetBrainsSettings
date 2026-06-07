@@ -1,0 +1,18 @@
+<application>
+  <component name="DokiDokiThemeConfig">
+    <option name="capStickerDimensions" value="true" />
+    <option name="currentSticker" value="SECONDARY" />
+    <option name="currentStickerName" value="SECONDARY" />
+    <option name="emptyFrameBackground" value="false" />
+    <option name="firstTime" value="false" />
+    <option name="globalFontSize" value="true" />
+    <option name="ignoreScaling" value="true" />
+    <option name="maxStickerHeight" value="250" />
+    <option name="maxStickerWidth" value="250" />
+    <option name="notificationOpacity" value="88" />
+    <option name="savedMargins" value="{&quot;com.intellij.openapi.wm.impl.IdeFrameImpl&quot;:{&quot;marginX&quot;:0.01953125,&quot;marginY&quot;:0.02640722724113968}}" />
+    <option name="showThemeStatusBar" value="false" />
+    <option name="userId" value="978a9c71-5887-4919-8e7d-e922d85c8671" />
+    <option name="version" value="88.5-1.16.1" />
+  </component>
+</application>

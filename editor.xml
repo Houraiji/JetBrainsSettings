@@ -1,0 +1,29 @@
+<application>
+  <component name="CodeInsightSettings">
+    <option name="PARAMETER_INFO_DELAY" value="300" />
+    <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
+    <option name="JAVADOC_INFO_DELAY" value="300" />
+    <option name="REFORMAT_ON_PASTE" value="1" />
+    <option name="INDENT_TO_CARET_ON_PASTE" value="true" />
+  </component>
+  <component name="CodeVisionSettings">
+    <option name="codeVisionGroupToPosition">
+      <map>
+        <entry key="references" value="Default" />
+        <entry key="vcs.code.vision" value="Default" />
+      </map>
+    </option>
+    <option name="defaultPosition" value="Right" />
+  </component>
+  <component name="EditorSettings">
+    <option name="languageStickyLines">
+      <map>
+        <entry key="Jupyter" value="false" />
+      </map>
+    </option>
+    <option name="USE_SOFT_WRAPS" value="" />
+  </component>
+  <component name="HtmlSettings">
+    <option name="AUTO_POPUP_TAG_CODE_COMPLETION_ON_TYPING_IN_TEXT" value="false" />
+  </component>
+</application>

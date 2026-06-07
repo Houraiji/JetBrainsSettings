@@ -1,0 +1,59 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="C:\Users\10174\AppData\Local\JetBrains\PyCharmCE2023.1\demo\PyCharmLearningProject" value="true" />
+        <entry key="C:\Users\10174\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\harry" value="true" />
+        <entry key="C:\Users\10174\AppData\Local\Temp\CLIP_homework.py13014155853525420" value="true" />
+        <entry key="C:\Users\10174\AppData\Local\Temp\作业_code补全.py9902715495772564158" value="true" />
+        <entry key="C:\Users\10174\Desktop\ai_ato\5-26\mnist-top24" value="true" />
+        <entry key="C:\Users\10174\Desktop\ai_ato\毕设" value="true" />
+        <entry key="C:\Users\10174\Desktop\人工智能\人工智能导论 实验三 决策树 to 学生\人工智能导论 实验三 决策树 to 学生\决策树实验数据" value="true" />
+        <entry key="C:\Users\10174\Desktop\人工智能\人工智能导论 实验四 手写数字识别 to 学生\人工智能导论 实验四 手写数字识别 to 学生" value="true" />
+        <entry key="C:\Users\10174\Desktop\人工智能实验\8puzzle" value="true" />
+        <entry key="C:\Users\10174\Desktop\人工智能实验\8puzzle\八数码问题" value="true" />
+        <entry key="C:\Users\10174\Desktop\人工智能导论 实验一 八数码-to 学生\人工智能实验\8puzzle\八数码问题" value="true" />
+        <entry key="C:\Users\10174\Desktop\人工智能班\5-26\mnist-top24" value="true" />
+        <entry key="C:\Users\10174\Desktop\人物拼图游戏（Python源代码）" value="true" />
+        <entry key="C:\Users\10174\Documents\Tencent Files\3265908977\FileRecv" value="true" />
+        <entry key="C:\Users\10174\PyCharmMiscProject" value="true" />
+        <entry key="C:\Users\10174\PycharmProjects\pythonProject" value="true" />
+        <entry key="C:\Users\10174\PycharmProjects\pythonProject1" value="true" />
+        <entry key="C:\Users\10174\PycharmProjects\pythonProject2" value="true" />
+        <entry key="C:\Users\10174\PycharmProjects\pythonProject3" value="true" />
+        <entry key="F:\0721\bishe\autodl-tmp" value="true" />
+        <entry key="F:\0721\zhima\week03" value="true" />
+        <entry key="F:\0721\zhima\week04" value="true" />
+        <entry key="F:\0721\zhima\week07" value="true" />
+        <entry key="F:\0721\zhima\week08" value="true" />
+        <entry key="F:\0721\zhima\week09\Week9-LLM训练与架构解析" value="true" />
+        <entry key="F:\0721\zhima\week10\Week10课上代码 (2)" value="true" />
+        <entry key="F:\0721\zhima\week10\作业" value="true" />
+        <entry key="F:\0721\zhima\week11\Week11-大模型实战课程\Week11作业" value="true" />
+        <entry key="F:\0721\zhima\week12\Week12-LLLM应用核心技术讲解\课上代码" value="true" />
+        <entry key="F:\0721\zhima\week13\agent" value="true" />
+        <entry key="F:\0721\zhima\week13\课上代码\Agent" value="true" />
+        <entry key="F:\0721\zhima\week16\作业参考\Multimodal_Agent" value="true" />
+        <entry key="F:\GPT-SoVITS-beta0306fix2" value="true" />
+        <entry key="F:\Myshare\code" value="true" />
+        <entry key="F:\PythonProject\0601" value="true" />
+        <entry key="F:\PythonProject\Huggingface" value="true" />
+        <entry key="F:\PythonProject\OS_project\index-tts-main\index-tts-main" value="true" />
+        <entry key="F:\PythonProject\OS_project\rag-chatbot" value="true" />
+        <entry key="F:\PythonProject\Preview" value="true" />
+        <entry key="F:\PythonProject\excel_qa" value="true" />
+        <entry key="F:\PythonProject\html2img" value="true" />
+        <entry key="F:\PythonProject\juke\Ai_ChatBot" value="true" />
+        <entry key="F:\PythonProject\juke\day3-demo" value="true" />
+        <entry key="F:\PythonProject\lectcode_hot100" value="true" />
+        <entry key="F:\PythonProject\mnist-top24" value="true" />
+        <entry key="F:\PythonProject\transformer\my_transformer" value="true" />
+        <entry key="F:\WorkInfo\Project01\ai-35kv" value="true" />
+        <entry key="F:\WorkInfo\Project01\houqin-ai" value="true" />
+        <entry key="F:\WorkInfo\Real_estate" value="true" />
+        <entry key="F:\YakuYaku" value="true" />
+        <entry key="F:\so-vits-svc" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,5 @@
+<templateSet group="Python">
+  <template name="main" value="def main():&#10;    $END$&#10;&#10;if __name__ == '__main__':&#10;    main()" description="if __name__ == '__main__'" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
+</templateSet>

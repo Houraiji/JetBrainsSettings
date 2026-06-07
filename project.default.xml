@@ -1,0 +1,22 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="ProjectViewState">
+        <option name="hideEmptyMiddlePackages" value="true" />
+        <option name="showExcludedFiles" value="false" />
+        <option name="showLibraryContents" value="true" />
+      </component>
+      <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  }
+}</component>
+      <component name="WindowStateProjectService">
+        <state x="446" y="99" key="SettingsEditor" timestamp="1751896459834">
+          <screen x="0" y="0" width="1920" height="1080" />
+        </state>
+        <state x="446" y="99" key="SettingsEditor/0.0.1920.1080" timestamp="1751896459834" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
